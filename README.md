@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Devnawa_Studio_Logo.png" alt="Devnawa Studio" width="140" />
+<img src="assets/logo.png" alt="Devnawa Studio" width="140" />
 
 <h1>DEVNAWA STUDIO</h1>
 
